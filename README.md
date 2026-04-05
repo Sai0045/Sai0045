@@ -64,6 +64,8 @@ _4 Months_
 **Virtual Internship (Generative AI on Google Cloud) via SmartBridge & SmartInternz** 
 _June–July 2025_
 
+**LLM Post Training Intern at Ethara AI**
+Remote, 3 months
 ---
 
 ## 🧠 Projects
