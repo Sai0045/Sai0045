@@ -61,6 +61,9 @@ _2021–2024_
 **Clicker Services Pvt. Ltd., Kopargaon**  
 _4 Months_
 
+**Virtual Internship (Generative AI on Google Cloud) via SmartBridge & SmartInternz** 
+_June–July 2025_
+
 ---
 
 ## 🧠 Projects
