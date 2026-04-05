@@ -41,8 +41,11 @@ Sanjivani University
 ## 📚 Education
 
 **B.Tech in AIML**  
+
 *Sanjivani University* 
+
 **CGPA:** 8.73
+
 _2024–Present (2nd Year)_
 
 **Diploma in Mechatronics**  
