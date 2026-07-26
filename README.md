@@ -118,16 +118,6 @@ Python • LSTM • TensorFlow • Flask
 
 ---
 
-## ✍️ EMNIST Alphabet Recognition
-
-Handwritten alphabet recognition using CNN.
-
-**Tech Stack**
-
-Python • CNN • TensorFlow • Flask
-
----
-
 # 💼 Internship Experience
 
 ## LLM Post Training Intern
@@ -201,21 +191,6 @@ https://linkedin.com/in/sairaj-abhale-75493b2a7
 💻 **GitHub:**
 https://github.com/Sai0045
 
----
-
-# 📊 GitHub Stats
-
-> Add these cards to your README:
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai0045&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai0045&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sai0045&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sai0045&label=Profile%20Views&color=blue&style=flat)
-```
 
 ---
 
