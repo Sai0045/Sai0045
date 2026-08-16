@@ -13,7 +13,7 @@ I enjoy building real-world AI applications that solve practical problems using 
 ## 🚀 About Me
 
 * 🎓 Final Year B.Tech (AIML) at **Sanjivani University**
-* 📊 Current CGPA: **8.73**
+* 📊 Current CGPA: **8.72**
 * 🏆 Diploma in Mechatronics with **91.48%**
 * 🌱 Currently learning **Advanced AI, LLMs, RAG, AI Agents, PyTorch, and MLOps**
 * 💼 Looking for **AI/ML Engineer, Python Developer, Computer Vision, and Generative AI Internship/Full-Time Opportunities**
